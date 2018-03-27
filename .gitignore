@@ -45,3 +45,8 @@ buildNumber.properties
 /.project
 /pom.xml
 /.springBeans
+/build/
+/WebContent/
+/LikeyCakey.pptx
+/LikeyCakey.pdf
+
